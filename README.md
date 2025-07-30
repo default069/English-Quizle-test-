@@ -26,3 +26,12 @@ cd english-quizle-test
 npm install
 npm run dev
 ```
+```
+/public       → Static assets  
+/src          → Application source code  
+  └── components  
+  └── pages  
+  └── utils  
+README.md     → Project info  
+package.json  → Project metadata
+```
