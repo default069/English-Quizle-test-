@@ -25,3 +25,4 @@ git clone https://github.com/your-username/english-quizle-test.git
 cd english-quizle-test
 npm install
 npm run dev
+```
